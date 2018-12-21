@@ -1,2 +1,2 @@
 # php-fpm-mysqli
-php:fpm-alpine with mysqli extension
+PHP FPM with MySQL extension
